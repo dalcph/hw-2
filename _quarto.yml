@@ -1,0 +1,8 @@
+project:
+  type: website          # ensures a site build with a root for the service worker
+format:
+  html:
+    toc: false
+filters:
+  - webr
+
